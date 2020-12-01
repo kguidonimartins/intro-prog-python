@@ -1,5 +1,5 @@
 # Escreva um programa que leia um valor em metros e
-#o exiba em milímetros.
+# o exiba em milímetros.
 
 metros = float(input("Entre com o valor em metros: "))
 milímetros = metros * 1000

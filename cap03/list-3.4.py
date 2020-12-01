@@ -1,5 +1,5 @@
 # Operadores lógicos
-# O operador 'not' é unário. 
+# O operador 'not' é unário.
 # Precisa apenas de um operando
 
 print(not True)

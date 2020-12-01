@@ -1,11 +1,11 @@
 # Calcule a seguinte expressão baseando-se nos valores
-#definidos na tabela:
-# 
+# definidos na tabela:
+
 # A > B and C or D
-# 
+
 # |    A    |    B    |    C    |    D    | Resultados |
 # |:-------:|:-------:|:-------:|:-------:|:----------:|
-# |    1    |    2    |   True  |  False  |   False    | 
+# |    1    |    2    |   True  |  False  |   False    |
 # |    10   |    3    |  False  |  False  |   False    |
 # |    5    |    1    |   True  |   True  |   True     |
 

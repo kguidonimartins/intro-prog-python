@@ -1,7 +1,7 @@
 # Operadores lógicos
-# O operador 'and' é binário. 
-# Retorna 'verdadeiro' apenas quando os 
-#dois operadores são verdadeiros
+# O operador 'and' é binário.
+# Retorna 'verdadeiro' apenas quando os
+# dois operadores são verdadeiros
 
 print(True and True)
 

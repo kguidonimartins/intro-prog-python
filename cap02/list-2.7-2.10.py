@@ -1,9 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# As duas linhas anteriores são necessárias para qualquer 
-#caracter acentuado inserido no script, mesmo que este 
-#esteja nos comentários.
+# As duas linhas anteriores são necessárias para qualquer
+# caracter acentuado inserido no script, mesmo que este
+# esteja nos comentários.
 
 # Listagem 2.7
 a = 2

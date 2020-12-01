@@ -1,4 +1,9 @@
-# Exemplos de composição com números inteiros
+# !/usr/bin/python
+# -*- coding: utf-8 -*-
+
+"""
+Exemplos de composição com números inteiros
+"""
 
 idade = 22
 

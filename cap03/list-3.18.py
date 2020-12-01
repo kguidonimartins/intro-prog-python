@@ -1,5 +1,5 @@
 # Nota: a função 'input' funcionou no SublimeREPL, mas é preciso digitar
-#linha por linha.
+# linha por linha.
 
 # Exemplo entrada de dados.
 

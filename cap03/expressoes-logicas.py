@@ -1,6 +1,6 @@
 # Operadores lógicos combinados em expressões lógicas complexas.
 # Operadores relacionais (==, !=, >=, etc) precedem os lógicos.
-# Precedência de avaliação: 
+# Precedência de avaliação:
 # not --> and --> or
 # True or False and (not True)
 # True or (False and False)
@@ -20,5 +20,3 @@ print(salário > 1000 and idade > 18)
 salário = 2000
 idade = 30
 print(salário > 1000 and idade > 18)
-
-
